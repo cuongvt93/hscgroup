@@ -1,0 +1,23 @@
+{
+  "name": "hscgroup",
+  "version": "1.0.0",
+  "description": "HSCGroup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuongvt93/hscgroup.git"
+  },
+  "author": "cuongvt93@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuongvt93/hscgroup/issues"
+  },
+  "homepage": "https://github.com/cuongvt93/hscgroup#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
